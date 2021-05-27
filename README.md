@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+📫 How to reach me: https://www.linkedin.com/in/fecostadesousa/
+
+
+<a href="https://api.badgr.io/public/assertions/TIzoJI8DTjq0FpfJjg1Sbw?identity__email=fecostadev%40gmail.com"><img width="45px" height="45px" src="https://api.badgr.io/public/assertions/TIzoJI8DTjq0FpfJjg1Sbw/image"></a>
+
 <!--
 **fecostadesousa/fecostadesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
